@@ -1,1 +1,1 @@
-Learning Vue
+Following along from the Learning Vue.js course on LinkedIn Learning.
